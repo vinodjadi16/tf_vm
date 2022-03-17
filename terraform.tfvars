@@ -1,0 +1,13 @@
+rg1_name                 = "East-RG700"
+rg1_location             = "eastus"
+test_vNet01_name       = "test_east_europe_vNet01"
+vnet01_address           = ["10.0.0.0/16"]
+vnet01_internal_subnet01 = "Internal-Subnet01"
+vnet01_int_sub01_address = ["10.0.1.0/24"]
+test-vm01-pip-Name  = "web-VM01-PIP"
+Test-VM01-NIC01-Name  = "web-VM01-NIC01"
+Test-VM01-Name  = "East-web-VM01"
+vm_size = "Standard_B1ls"
+computer_name = "East-web-VM01"
+username  = "azadmin"
+password  = "Password@123"
